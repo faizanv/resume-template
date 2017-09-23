@@ -1,19 +1,24 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: Amazon.com
+  position: Software Engineering Intern
+  duration: Aug, 2017 &mdash; Present
+  summary: Working as a Software Engineering Intern on the Retail Pricing Workflows team. My project involved making it easier to view historical changes in pricing configurations.
 
 # Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Snap Inc.
+  position: Software Engineering Intern
+  duration: May, 2017 &mdash; Aug, 2017
+  summary: Software Engineering Intern on the Scan team of the Creative Camera department. <ul class="resume-item-list"><li>Developed user-facing products using React.js, ES6, Redux, Webpack, Saas, Java, and Google App Engine</li><li>Improved maintainability and extensibility of <a href="https://scan.snapchat.com/">https://scan.snapchat.com/</a> by rewriting it in modern Javascript using React, Redux, and Webpack while also adding new features for improved insights of snapcodes</li><li>Simplified and standardized deployment for web projects and deployed components to the internal NPM registry</li><li>Organized the inaugural intern hackathon</li></ul>
 
 
 # Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: SpaceX
+  position: Software Engineering Intern
+  duration: May, 2016  &mdash; July, 2016
+  summary: Web Developer on the Enterprise Information Systems team. <ul class="resume-item-list"><li>Developed features for internal DevOps tools to reduce the usage of PowerShell scripts and to aid in the deployment of all SpaceX internal applications</li><li>Built web applications with .NET, Angular.js, and TypeScript that reduced waiting time in lines for over 6000 employees saving many hours in lost productivity</li><li>Defined usage standards for TypeScript throughout the department</l1></ul>
+
+- company: State Farm
+  position: Software Engineering Intern
+  duration: May 2015  &mdash; Aug, 2015
+  summary: Android Developer on State Farm's Mobile Development Team <ul><li>Collaborated with other interns to refactor agent search on the Pocket Agent Android application</li><li>Tested and determined appropriate Android training tools and decreased training time by 3 days</li></ul>
